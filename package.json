@@ -1,0 +1,35 @@
+{
+  "name": "renart-case-study",
+  "version": "1.0.0",
+  "description": "Renart jewelry product listing application with real-time gold pricing",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm run install-backend && npm run install-frontend",
+    "install-backend": "cd backend && npm install",
+    "install-frontend": "cd nextjs-frontend && npm install",
+    "dev": "concurrently \"npm run dev-backend\" \"npm run dev-frontend\"",
+    "dev-backend": "cd backend && npm run dev",
+    "dev-frontend": "cd nextjs-frontend && npm run dev",
+    "build": "cd nextjs-frontend && npm run build",
+    "start": "cd backend && npm start",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "jewelry",
+    "product-listing",
+    "e-commerce",
+    "react",
+    "nodejs",
+    "gold-price",
+    "carousel"
+  ],
+  "author": "Renart Case Study",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/renart-case-study.git"
+  }
+}
