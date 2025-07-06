@@ -18,7 +18,7 @@ async function getGoldPrice() {
     // GoldAPI.io kullanarak gerçek zamanlı altın fiyatı
     const response = await axios.get('https://www.goldapi.io/api/XAU/USD', {
       headers: {
-        'x-access-token': 'goldapi-57nabsmcq73g77-io',
+        'x-access-token': 'goldapi-fmousmcs4datc-io',
         'Content-Type': 'application/json'
       },
       timeout: 10000
