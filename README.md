@@ -1,5 +1,7 @@
 # Renart - Lüks Mücevher Ürün Listesi
 
+https://case-study-w.vercel.app/
+
 Bu proje, Renart mücevher markası için geliştirilmiş modern bir ürün listeleme uygulamasıdır. Gerçek zamanlı altın fiyatları ile dinamik fiyatlandırma, gelişmiş filtreleme ve şık carousel tasarımı içerir.
 
 ## 🚀 Özellikler
