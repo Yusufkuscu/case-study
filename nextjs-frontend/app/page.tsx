@@ -147,7 +147,7 @@ export default function HomePage() {
         {/* Footer */}
         <footer className="text-center py-10 border-t border-gray-100 mt-15">
           <p className="font-montserrat text-sm text-gray-500">
-            © 2025 Renart - Lüks Mücevher Koleksiyonu
+            © 2025 YUSUF - Lüks Mücevher Koleksiyonu
           </p>
         </footer>
       </div>
