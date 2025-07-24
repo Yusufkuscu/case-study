@@ -2,19 +2,19 @@ import './globals.css'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Renart - Lüks Mücevher Koleksiyonu',
-  description: 'Renart\'ın özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin. Gerçek zamanlı altın fiyatları ile dinamik fiyatlandırma.',
-  keywords: ['mücevher', 'nişan yüzüğü', 'altın', 'elmas', 'lüks takı', 'renart'],
+  title: 'YUSUF- Lüks Mücevher Koleksiyonu',
+  description: 'YUSUF\'un özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin. Gerçek zamanlı altın fiyatları ile dinamik fiyatlandırma.',
+  keywords: ['mücevher', 'nişan yüzüğü', 'altın', 'elmas', 'lüks takı', 'yusuf'],
   openGraph: {
-    title: 'Renart - Lüks Mücevher Koleksiyonu',
-    description: 'Renart\'ın özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin.',
+    title: 'YUSUF - Lüks Mücevher Koleksiyonu',
+    description: 'YUSUF\'un özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin.',
     type: 'website',
     locale: 'tr_TR',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Renart - Lüks Mücevher Koleksiyonu',
-    description: 'Renart\'ın özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin.',
+    title: 'YUSUF - Lüks Mücevher Koleksiyonu',
+    description: 'YUSUF\'un özenle seçilmiş nişan yüzükleri ve mücevher koleksiyonunu keşfedin.',
   },
   robots: {
     index: true,
